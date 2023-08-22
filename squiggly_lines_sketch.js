@@ -1,3 +1,5 @@
+// initialize the variables. Play around with the parameters to modify your generations!
+
 let minYchange = 5; //these two ranges determine line overlap and width
 let maxYchange = 60;
 let layers = 3;
@@ -20,7 +22,7 @@ function preload() {
 
 function setup() {
   let canv = createCanvas(windowWidth-20, windowHeight-20);
-  //canv.mousePressed(setup);
+  canv.mousePressed(setup);
   if (lines == true) {
     stroke(0, 0, 0, extraBlackAlph);
     strokeWeight(sw);
