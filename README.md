@@ -6,3 +6,18 @@ You can use the [web editor](https://editor.p5js.org/) for p5.js or [download th
 
 # 
 And that's it! I hope you enjoy the process of learning and creating unique results using p5.js. I will be uploading more code as I work through them so check back every week!
+
+ 
+# SQUIGGY LINES (will update name later)
+This was a fun project to work on with lots of possibilities for different generations.
+
+![1](https://github.com/midnightsun257/p5.js-generations/assets/78453293/da70d700-3aac-4a28-ae9f-01aff1fa48a6)
+
+[Code (editor.p5js.org)](https://editor.p5js.org/midnightsun257/sketches/Dn8qNJSxN)
+
+# WATERCOLOR BLOB
+Inspired by [this Tyler Hobbs video](https://youtu.be/5R9eywArFTE?si=zI5KXgHpkq_Ixydd), I used gaussian distribution to creath "growths" on the polygon and applied it recursively to create a watercolor effect.
+
+![watercolor1](https://github.com/midnightsun257/p5.js-generations/assets/78453293/817a5d1b-ab4f-44dc-a40e-2293d047d41c)
+
+[Code (editor.p5js.org)](https://editor.p5js.org/midnightsun257/full/i_qJS8aqf)
