@@ -21,3 +21,15 @@ Inspired by [this Tyler Hobbs video](https://youtu.be/5R9eywArFTE?si=zI5KXgHpkq_
 ![watercolor1](https://github.com/midnightsun257/p5.js-generations/assets/78453293/817a5d1b-ab4f-44dc-a40e-2293d047d41c)
 
 [Code (editor.p5js.org)](https://editor.p5js.org/midnightsun257/full/i_qJS8aqf)
+
+# PAINT BLEND
+Exploring the creative potential of p5.js's blendMode() feature to craft captivating and harmoniously blended artwork. You can experiment with a wide range of blend modes, including BLEND, DARKEST, LIGHTEST, DIFFERENCE, MULTIPLY, EXCLUSION, SCREEN, REPLACE, OVERLAY, HARD_LIGHT, SOFT_LIGHT, DODGE, BURN, ADD, REMOVE, and SUBTRACT.
+
+The result below was obtained using the HARD_LIGHT blend and the one beneath that was using MULTIPLY. You can see the difference in the blend modes using the same color palette.
+![green paint blend](https://github.com/midnightsun257/p5.js-generations/assets/78453293/5cc34bcc-ef85-4fe2-8f89-dc36342fc66a)
+
+
+![green paint blend2](https://github.com/midnightsun257/p5.js-generations/assets/78453293/a47e6b8c-4e31-44a2-858a-08987fff1027)
+
+[Code (editor.p5js.org)](https://editor.p5js.org/midnightsun257/sketches/dri7I04v7)
+
